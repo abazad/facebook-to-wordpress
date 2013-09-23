@@ -1,11 +1,12 @@
-==== facebook-to-wordpress ====
+facebook-to-wordpress
+=====================
 This is a simple PHP script to import your Facebook page status updates to your blog.
 One WP post will be created for each FB status update.
 
 Please note that you have to be the owner of the page to import it.
 
-==== Pre-requisites ====
-
+Pre-requisites
+==============
 1. Install the Wordpress JSON API plugin :
 http://wordpress.org/plugins/json-api/
 
@@ -23,12 +24,12 @@ see https://developers.facebook.com/docs/php/gettingstarted/
 - your_wordpress_blog : your blog URL
 - start_date (YYYY-MM-DD) : only the posts published at or after this date will be imported.
 
-==== Installation ====
-
+Installation
+============
 Copy the files to a folder on your web server.
 
-==== Usage ====
-
+Usage
+=====
 1. Navigate to index.php.
 2. Login to your Facebook account.
 3. Select your page in the list.
