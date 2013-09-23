@@ -21,10 +21,10 @@ https://github.com/fabienric/wp-json-api
 see https://developers.facebook.com/docs/php/gettingstarted/
 
 5. Replace the following informations in the source code :
-- enter_your_app_id_here : the app ID
-- enter_your_app_secret_here : the app secret
-- your_wordpress_blog : your blog URL
-- start_date (YYYY-MM-DD) : only the posts published at or after this date will be imported.
+	- enter_your_app_id_here : the app ID
+	- enter_your_app_secret_here : the app secret
+	- your_wordpress_blog : your blog URL
+	- start_date (YYYY-MM-DD) : only the posts published at or after this date will be imported.
 
 Installation
 ============
